@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #a5a2a2;
+    padding: 20px;
+    color: #000000;
+  }
+  
+  .logo a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+  }
+  
+  .nav-links li a {
+    color: #000000;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+  }
+  
+  .nav-links li a:hover {
+    background-color: #555;
+  }
+  
+  .burger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+  }
+  
+  .burger div {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 3px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .nav-links {
+      display: none;
+    }
+    .burger {
+      display: flex;
+    }
+  }
+
+  body{font:Arial,sans-serif;background:#333;margin:0;padding:0;}
+  .article{background:#a5a2a2;padding:20px;margin:10px;border-radius:
+  5px;box-shadow:0 2px 5px rgba(0,0,0,.1);}
+  .permulaan{background: #a5a2a2;padding:20px;margin: 10px;border-radius:
+  5px;box-shadow:0 2px 5px rgba(0,0,0,.1) ;}
+  .permulaan {
+text-align: center;
+}
+
+.permulaan h1 {
+font-size: 2em; /* You can adjust the font size as needed */
+}
+
+h1{color: #000000;}
+
+.credit{background: #a5a2a2;padding:20px;margin: 10px;border-radius:
+  5px;box-shadow:0 2px 5px rgba(0,0,0,.1) ;}
+
