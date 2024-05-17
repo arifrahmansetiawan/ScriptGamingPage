@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>ScriptGaming - Home</title>
     <link rel="stylesheet" href="style.css">
     <meta name="google-site-verification" content="D5CF7Im1PMHzs064m6XpQp0Xz7JlqtfUMsYA3utGNu0" />
 </head>
@@ -13,7 +13,7 @@
           <a href="#">ScriptGaming</a>
         </div>
         <ul class="nav-links">
-          <li><a href="file:///C:/Users/sman1batu/Desktop/why/index.html">Home</a></li>
+          <li><a href="https://arifrahmansetiawan.github.io/ScriptGamingPage/">Home</a></li>
           <li><a href="file:///C:/Users/sman1batu/Desktop/why/1234.html">About</a></li>
           <li><a href="file:///C:/Users/sman1batu/Desktop/why/2344.htmll">Services</a></li>
           <li><a href="file:///C:/Users/sman1batu/Desktop/why/4565.html">Contact</a></li>
